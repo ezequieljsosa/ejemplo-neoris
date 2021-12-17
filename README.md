@@ -1,2 +1,2 @@
 # ejemplo-neoris
-esto es un repo para ver que onda
+esto es un repo para practicar git
